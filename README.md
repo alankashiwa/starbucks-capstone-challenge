@@ -1,4 +1,4 @@
-## starbucks-capstone-challenge
+## Starbucks Capstone Challenge
 ### 1. Project Motivation
 This project aims at discovering customer behavior based on simulated Starbucks app data. Datasets that contains offer information, customer demography, records of transactions, and customer-offer interaction data.
  
