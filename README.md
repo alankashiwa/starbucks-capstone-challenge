@@ -18,4 +18,4 @@ The following packages are required to execute the code in the jupyter notebook.
 ### 4. Results
 The project notebook and the blog post link can be found below:
 * [Project notebook](https://github.com/alankashiwa/starbucks-capstone-challenge/blob/master/Starbucks_Capstone_notebook.ipynb)
-* [Blog Post]()
+* [Blog Post](https://medium.com/@alanpochingyang/starbucks-capstone-challenge-analyzing-starbucks-rewards-app-data-13ab5259e049)
